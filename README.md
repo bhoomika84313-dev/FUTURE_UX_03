@@ -13,5 +13,8 @@ CLIENTS
 TASKS
 ![tasks ](https://github.com/user-attachments/assets/a2831401-3e0d-4eba-a308-be9e0eeab8a4)
 
-FULL FIGMA DESGIN 
-https://www.figma.com/make/uNmhyB3tx5YBU4ciL9FMXY/CRM-Dashboard-UI-Design?fullscreen=1&t=7ULOOmafgJG7UdHI-1
+
+
+🎨 Figma Prototype
+Interactive CRM Dashboard (Figma Make):  
+https://www.figma.com/make/uNmhyB3tx5YBU4ciL9FMXY
