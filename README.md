@@ -1,5 +1,5 @@
 # FUTURE_UX_03
-CRM Dashboard UI for a digital agency to manage leads, clients, and tasks – designed as part of Future Interns Task 3.
+CRM Dashboard UI for a digital agency to manage leads, clients, and tasks – designed as part of Future Interns Task 3.(Desinged using figma)
 
 DASHBOARD SCREEN 
 ![dashboard ](https://github.com/user-attachments/assets/9959b89e-2594-4535-af94-2f3c6980b257)
@@ -12,3 +12,6 @@ CLIENTS
 
 TASKS
 ![tasks ](https://github.com/user-attachments/assets/a2831401-3e0d-4eba-a308-be9e0eeab8a4)
+
+FULL FIGMA DESGIN 
+https://www.figma.com/make/uNmhyB3tx5YBU4ciL9FMXY/CRM-Dashboard-UI-Design?fullscreen=1&t=7ULOOmafgJG7UdHI-1
